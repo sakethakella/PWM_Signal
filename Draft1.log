@@ -1,0 +1,17 @@
+LTspice 24.0.11 for Windows
+Circuit: * D:\sakethprograms\ssp work\Draft1.asc
+Start Time: Sat Mar 15 16:24:46 2025
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Limiting rise time of source v1 to 5e-05
+Limiting fall time of source v1 to 5e-05
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 1.679 seconds.
+
