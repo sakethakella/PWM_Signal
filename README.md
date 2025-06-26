@@ -1,4 +1,4 @@
-# PWM Signal Generation and Demodulation | Guided Project | Student Satellite Program [Oct '24 - Nov '24]
+# PWM Signal Generation and Demodulation
 
 This repository documents a comprehensive project on Pulse Width Modulation (PWM) signal generation and demodulation, completed as part of the Student Satellite Program. The project leverages LTspice for simulation, analysis, and validation of PWM techniques in communication systems.
 
